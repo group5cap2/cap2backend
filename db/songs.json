@@ -1,0 +1,490 @@
+[
+  {
+    "lana-del-rey": [
+      {
+        "id": 0,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "Summertime Sadness",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2012-01-27",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 1,
+        "artistName": "Lana Del Rey",
+        "collectionName": "The Great Gatsby (Music from Baz Luhrmann's Film) [Deluxe Edition]",
+        "trackName": "Young and Beautiful",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/4a/a7/a34aa7a8-e78d-1851-85ba-0f352d591b16/source/100x100bb.jpg",
+        "releaseDate": "2013-04-23",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 2,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "Video Games",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2011-10-07",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 3,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "Blue Jeans",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2011-10-07",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 4,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "Born to Die",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2011-12-30",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 5,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "Dark Paradise",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2012-01-27",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 6,
+        "artistName": "Lana Del Rey",
+        "collectionName": "Born to Die",
+        "trackName": "National Anthem",
+        "artistViewUrl": "https://music.apple.com/us/artist/lana-del-rey/464296584?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/93/cf/6a/93cf6ae8-be8b-99a9-eddf-7acf43cb9159/source/100x100bb.jpg",
+        "releaseDate": "2012-01-27",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "breaking-benjamin": [
+      {
+        "id": 7,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Phobia",
+        "trackName": "The Diary of Jane",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ae/d0/5e/aed05e85-c73a-f716-6a43-509d6c0fbee4/source/100x100bb.jpg",
+        "releaseDate": "2006-06-06",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 8,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Shallow Bay: The Best of Breaking Benjamin (Deluxe Edition)",
+        "trackName": "I Will Not Bow",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/26/c8/1a/26c81aaa-eec5-665c-06ad-53fa9d71240f/source/100x100bb.jpg",
+        "releaseDate": "2009-08-31",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 9,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Phobia",
+        "trackName": "Breath",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ae/d0/5e/aed05e85-c73a-f716-6a43-509d6c0fbee4/source/100x100bb.jpg",
+        "releaseDate": "2006-08-08",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 10,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Shallow Bay: The Best of Breaking Benjamin (Deluxe Edition)",
+        "trackName": "Breath",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/26/c8/1a/26c81aaa-eec5-665c-06ad-53fa9d71240f/source/100x100bb.jpg",
+        "releaseDate": "2006-08-08",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 11,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Shallow Bay: The Best of Breaking Benjamin (Deluxe Edition)",
+        "trackName": "Give Me a Sign",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/26/c8/1a/26c81aaa-eec5-665c-06ad-53fa9d71240f/source/100x100bb.jpg",
+        "releaseDate": "2009-09-29",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 12,
+        "artistName": "Breaking Benjamin",
+        "collectionName": "Phobia",
+        "trackName": "Until the End",
+        "artistViewUrl": "https://music.apple.com/us/artist/breaking-benjamin/3299379?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ae/d0/5e/aed05e85-c73a-f716-6a43-509d6c0fbee4/source/100x100bb.jpg",
+        "releaseDate": "2006-08-08",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "adele": [
+      {
+        "id": 13,
+        "artistName": "Adele",
+        "collectionName": "25",
+        "trackName": "Hello",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/da/e9/e6dae950-3b74-8df4-b40a-dba4161bf067/source/100x100bb.jpg",
+        "releaseDate": "2015-10-23",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 14,
+        "artistName": "Adele",
+        "collectionName": "25",
+        "trackName": "Send My Love (To Your New Lover)",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/da/e9/e6dae950-3b74-8df4-b40a-dba4161bf067/source/100x100bb.jpg",
+        "releaseDate": "2015-11-20T12:00:00Z",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 15,
+        "artistName": "Adele",
+        "collectionName": "25",
+        "trackName": "When We Were Young",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/da/e9/e6dae950-3b74-8df4-b40a-dba4161bf067/source/100x100bb.jpg",
+        "releaseDate": "2015-11-20T12",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 16,
+        "artistName": "Adele",
+        "collectionName": "25",
+        "trackName": "All I Ask",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/da/e9/e6dae950-3b74-8df4-b40a-dba4161bf067/source/100x100bb.jpg",
+        "releaseDate": "2015-11-20",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 17,
+        "artistName": "Adele",
+        "collectionName": "Skyfall - Single",
+        "trackName": "Skyfall",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/bc/28/20/bc28207a-f9c9-f752-8231-82b71e75e70c/source/100x100bb.jpg",
+        "releaseDate": "2012-10-05",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 18,
+        "artistName": "Adele",
+        "collectionName": "30",
+        "trackName": "Easy On Me",
+        "artistViewUrl": "https://music.apple.com/us/artist/adele/262836961?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a7/28/b2/a728b2bf-e6be-9340-ba7d-97506e5e2b0c/source/100x100bb.jpg",
+        "releaseDate": "2021-10-15",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "michael-jackson": [
+      {
+        "id": 19,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "Man In the Mirror",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "1987-08-31",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 20,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "Billie Jean",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "1982-11-30",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 21,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "Don't Stop 'Til You Get Enough",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "1979-07-10",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 22,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "Thriller",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "2003-11-18",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 22,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "Beat It",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "1982-11-30",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 23,
+        "artistName": "Michael Jackson",
+        "collectionName": "The Essential Michael Jackson",
+        "trackName": "The Way You Make Me Feel",
+        "artistViewUrl": "https://music.apple.com/us/artist/michael-jackson/32940?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/9b/fe/1f/9bfe1f2d-c51e-0427-1075-21aac1f3b874/source/100x100bb.jpg",
+        "releaseDate": "1987-08-31",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "marron-5": [
+      {
+        "id": 24,
+        "artistName": "Maroon 5",
+        "collectionName": "Hands All Over (Deluxe Edition)",
+        "trackName": "Moves Like Jagger (feat. Christina Aguilera)",
+        "artistViewUrl": "https://music.apple.com/us/artist/maroon-5/1798556?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/78/02/0d/78020d4d-3670-2783-60ce-868050237444/source/100x100bb.jpg",
+        "releaseDate": "2010-08-18",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 25,
+        "artistName": "Maroon 5",
+        "collectionName": "Overexposed (Deluxe Version)",
+        "trackName": "One More Night",
+        "artistViewUrl": "https://music.apple.com/us/artist/maroon-5/1798556?uo=4",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/69/32/07/69320790-8ffb-df50-1fb9-4ced6829d0d5/source/100x100bb.jpg",
+        "releaseDate": "2012-06-01",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 26,
+        "artistName": "Maroon 5",
+        "collectionName": "It Won't Be Soon Before Long",
+        "trackName": "Makes Me Wonder",
+        "artistViewUrl": "https://music.apple.com/us/artist/maroon-5/1798556?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/ec/18/8a/ec188a3a-80ae-3401-5ba3-9beb1f96709e/source/100x100bb.jpg",
+        "releaseDate": "2007-03-27",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 27,
+        "artistName": "Maroon 5",
+        "collectionName": "Overexposed (Deluxe Version)",
+        "trackName": "Daylight",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/69/32/07/69320790-8ffb-df50-1fb9-4ced6829d0d5/source/100x100bb.jpg",
+        "releaseDate": "2012-06-20",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 28,
+        "artistName": "Maroon 5",
+        "collectionName": "It Won't Be Soon Before Long",
+        "trackName": "Wake Up Call",
+        "artistViewUrl": "https://music.apple.com/us/artist/maroon-5/1798556?uo=4",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/ec/18/8a/ec188a3a-80ae-3401-5ba3-9beb1f96709e/source/100x100bb.jpg",
+        "releaseDate": "2007-05-16",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 29,
+        "artistName": "Maroon 5",
+        "collectionName": "V (Deluxe)",
+        "trackName": "Maps",
+        "artistViewUrl": "https://music.apple.com/us/artist/maroon-5/1798556?uo=4",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/0d/ac/b60dac46-64e0-cdc3-2621-6192f99bd6ac/source/100x100bb.jpg",
+        "releaseDate": "2014-06-16",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "halestorm": [
+      {
+        "id": 30,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm (Bonus Track Version)",
+        "trackName": "I Get Off",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1c/d4/da/1cd4da2b-64dc-5237-9414-6cb60a36ed8c/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 31,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm (Bonus Track Version)",
+        "trackName": "It's Not You",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1c/d4/da/1cd4da2b-64dc-5237-9414-6cb60a36ed8c/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28T07:00:00Z",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 32,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm (Bonus Track Version)",
+        "trackName": "I'm Not an Angel",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1c/d4/da/1cd4da2b-64dc-5237-9414-6cb60a36ed8c/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 33,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm",
+        "trackName": "I Get Off",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/24/9f/73/249f738c-383c-3db9-6efb-70adbbf0938b/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 34,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm",
+        "trackName": "It's Not You",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/24/9f/73/249f738c-383c-3db9-6efb-70adbbf0938b/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 35,
+        "artistName": "Halestorm",
+        "collectionName": "Halestorm",
+        "trackName": "What Were You Expecting",
+        "artistViewUrl": "https://music.apple.com/us/artist/halestorm/3969358?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/24/9f/73/249f738c-383c-3db9-6efb-70adbbf0938b/source/100x100bb.jpg",
+        "releaseDate": "2009-04-28",
+        "isFav": false,
+        "isDel": false
+      }
+    ],
+    "sia": [
+      {
+        "id": 36,
+        "artistName": "Sia",
+        "collectionName": "1000 Forms of Fear",
+        "trackName": "Elastic Heart",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3b/74/63/3b746382-c6d4-9f72-8feb-841afe3690bf/source/100x100bb.jpg",
+        "releaseDate": "2014-07-04",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 37,
+        "artistName": "Sia",
+        "collectionName": "Cheap Thrills (feat. Sean Paul) - Single",
+        "trackName": "Cheap Thrills (feat. Sean Paul)",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/b2/56/83/b2568318-585f-474c-aa40-c56045312458/source/100x100bb.jpg",
+        "releaseDate": "2016-01-29",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 38,
+        "artistName": "Sia",
+        "collectionName": "Colour the Small One (Bonus Track Version)",
+        "trackName": "Breathe Me",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/ae/88/6d/ae886d7d-d88e-e4e6-22b6-6e2a11dcaeba/source/100x100bb.jpg",
+        "releaseDate": "2004-01-19",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 39,
+        "artistName": "Sia",
+        "collectionName": "This Is Acting",
+        "trackName": "Cheap Thrills",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/75/16/dd/7516dd84-863d-02e6-fb9e-e27b7fc935db/source/100x100bb.jpg",
+        "releaseDate": "2016-01-29",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 40,
+        "artistName": "Sia",
+        "collectionName": "Fifty Shades of Grey (Original Motion Picture Soundtrack)",
+        "trackName": "Salted Wound",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/b2/a5/f2/b2a5f2a2-de34-3da9-82b5-d530bd6dda3c/source/100x100bb.jpg",
+        "releaseDate": "2015-01-27",
+        "isFav": false,
+        "isDel": false
+      },
+      {
+        "id": 41,
+        "artistName": "Sia",
+        "collectionName": "This Is Acting",
+        "trackName": "Unstoppable",
+        "artistViewUrl": "https://music.apple.com/us/artist/sia/13493906?uo=4",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/75/16/dd/7516dd84-863d-02e6-fb9e-e27b7fc935db/source/100x100bb.jpg",
+        "releaseDate": "2016-01-29",
+        "isFav": false,
+        "isDel": false
+      }
+    ]
+  }
+]
