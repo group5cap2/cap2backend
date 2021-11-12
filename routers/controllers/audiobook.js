@@ -1,4 +1,4 @@
-routers
+
 const axios = require("axios");
 
 
@@ -30,8 +30,8 @@ const getAll = (req, res) => {
     getAll,
     getName,
   };
-=======
-const 
+
+
 
 
 
@@ -60,5 +60,5 @@ const
 //     res.status(200).json(all)
 // })
 
- main
+
 
