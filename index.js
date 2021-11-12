@@ -5,6 +5,7 @@ const morgan = require("morgan");
 const axios = require("axios");
 const iunesApiSearsh = require("itunes-api-search");
 const itunes = require("./routers/routes/all");
+ routers
 const audioBooks= require("./routers/routes/audiobook");
 const eBooks= require("./routers/routes/ebooks");
 const movies= require("./routers/routes/movie");
@@ -13,6 +14,8 @@ const podcasts= require("./routers/routes/podcasts");
 const songs= require("./routers/routes/songs");
 const tvShows= require("./routers/routes/tvshows");
 
+
+ main
 
 require("dotenv");
 const cors = require("cors");
@@ -36,6 +39,7 @@ const getData = async () => {
 };
 getData();
 
+ routers
 app.use("/", itunes);
 app.use("/audiobooks", audioBooks);
 app.use("/ebooks", eBooks);
@@ -48,6 +52,13 @@ app.use("/tvshows", tvShows);
 
 
 module.exports = data;
+
+app.use("/all", itunes);
+
+
+module.exports = data;
+// app.use("/audioBook", allaudioBookRouter)
+ main
 
 app.listen(port, (req, res) => {
   console.log(`server run on port ${port}`);
