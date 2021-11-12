@@ -39,7 +39,7 @@ const getData = async () => {
 };
 getData();
 
- routers
+
 app.use("/", itunes);
 app.use("/audiobooks", audioBooks);
 app.use("/ebooks", eBooks);
@@ -58,7 +58,7 @@ app.use("/all", itunes);
 
 module.exports = data;
 // app.use("/audioBook", allaudioBookRouter)
- main
+
 
 app.listen(port, (req, res) => {
   console.log(`server run on port ${port}`);

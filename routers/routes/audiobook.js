@@ -14,5 +14,4 @@ audioBook.get("/name", getName)
 
 module.exports = audioBook;
 
-const express = require("express");
 
