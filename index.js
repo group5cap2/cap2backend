@@ -17,6 +17,7 @@ const users= require("./routers/routes/users");
 
 
 
+
 require("dotenv");
 const cors = require("cors");
 app.use(cors());
@@ -54,10 +55,8 @@ app.use("/users", users);
 
 module.exports = data;
 
-app.use("/all", itunes);
 
 
-module.exports = data;
 
 
 
