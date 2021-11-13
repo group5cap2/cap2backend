@@ -15,7 +15,7 @@ const songs = require("./routers/routes/songs");
 const tvShows = require("./routers/routes/tvshows");
 const users = require("./routers/routes/users");
 
-require("dotenv");
+require("dotenv").config();
 const cors = require("cors");
 app.use(cors());
 
