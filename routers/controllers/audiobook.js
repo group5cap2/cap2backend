@@ -38,10 +38,3 @@ const getAll = (req, res) => {
 
 
 
-
-
-
-
-
-
-

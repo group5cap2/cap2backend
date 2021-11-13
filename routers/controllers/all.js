@@ -13,7 +13,7 @@ getData();
 
 const getKind = (req, res) => {
   const { kind } = req.query;
-  const found = data.filter((item) => (item.kind = kind));
+  const found = data.filter((item) => (item.kind === kind));
   res.status(200).json(found);
 };
 
