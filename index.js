@@ -13,6 +13,8 @@ const musicvideo= require("./routers/routes/musicvideo");
 const podcasts= require("./routers/routes/podcasts");
 const songs= require("./routers/routes/songs");
 const tvShows= require("./routers/routes/tvshows");
+const users= require("./routers/routes/users");
+
 
 
 
@@ -48,16 +50,11 @@ app.use("/musicvideo", musicvideo);
 app.use("/podcasts", podcasts);
 app.use("/songs", songs);
 app.use("/tvshows", tvShows);
+app.use("/users", users);
 
 
 
 module.exports = data;
-
-app.use("/all", itunes);
-
-
-module.exports = data;
-// app.use("/audioBook", allaudioBookRouter)
 
 
 app.listen(port, (req, res) => {
