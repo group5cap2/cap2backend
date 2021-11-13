@@ -32,6 +32,23 @@ const newUser = (req, res) => {
     }
   });
 };
+const checkuser=(req,res)=>{
+  const username=req.body.username;
+  const passward=req.body.passward;
+  let resoult= false;
+  users.map(user=>{
+    if(user.username===username&&user.passward===passward){
+      resoult =true;
+    }
+  })
+  if(resoult)
+  {
+    res.status(200);
+  }else{
+    res.json("wrong username/passward compination!");
+  }
+
+}
 
 
 
@@ -66,4 +83,5 @@ const newUser = (req, res) => {
 module.exports = {
   allusers,
   newUser,
+  checkuser
 };
