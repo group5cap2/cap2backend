@@ -17,7 +17,7 @@ const allusers = (req, res) => {
 
 const newUser = (req, res) => {
   const user = {
-    username: rwq.body.username,
+    username: req.body.username,
     email: req.body.email,
     passward: req.body.passward,
     favorite: [],
@@ -32,6 +32,9 @@ const newUser = (req, res) => {
     }
   });
 };
+
+
+
 
 //   const favorite = (req, res) => {
 //     const { id } = req.params;
