@@ -53,35 +53,28 @@ const checkuser=(req,res)=>{
 
 
 
-//   const favorite = (req, res) => {
-//     const { id } = req.params;
-//     const { name, isDel, isFav } = req.body;
-//     let check = false;
-
-//     movies.forEach((movie) => {
-//       if (movie.id == id) {
-//         if (name != undefined) movie.name = name;
-//         if (isDel != undefined) movie.isDel = isDel;
-//         if (isFav != undefined) movie.isFav = isFav;
-//         check = true;
-//       }
-//     });
-
-//     if (check) {
-//       fs.writeFile("./db/movies.json", JSON.stringify(movies), (err) => {
-//         if (err) {
-//           res.status(400).json("bad request");
-//         } else {
-//           res.status(200).json(movies);
-//         }
-//       });
-//     } else {
-//       res.status(404).json("movie not found");
-//     }
-//   };
+  const favorite = (req, res) => {
+    const username=req.body.username;
+    const favorite=req.body.favorite;
+    users.map((user,i)=>{
+       if(user.username==username)
+       {
+         user.favorite.push(favorite)
+       }
+    })
+    
+    fs.writeFile("./db/users.json", JSON.stringify(users), (err) => {
+      if (err) {
+        res.status(400).json("bad request");
+      } else {
+        res.status(200).json(users);
+      }
+    });
+  };
 
 module.exports = {
   allusers,
   newUser,
-  checkuser
+  checkuser,
+  favorite
 };
