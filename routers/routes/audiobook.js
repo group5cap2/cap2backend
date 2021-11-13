@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const express = require("express");
 const audioBook = express.Router()
 
@@ -13,6 +13,3 @@ audioBook.get("/name", getName)
 
 
 module.exports = audioBook;
-=======
-const express = require("express");
->>>>>>> 2841d5f53b5429e0d668ad7424f7898786e701eb
