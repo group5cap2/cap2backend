@@ -72,9 +72,38 @@ const checkuser=(req,res)=>{
     });
   };
 
+  const delfav = (req, res) => {
+    const username=req.body.username;
+    const favorite=req.body.favorite;
+    let id=favorite.trackId;
+    users.map((user,index)=>{
+       if(user.username==username)
+       {
+        user.favorite.map((item,i)=>{
+            if(item[0].trackId==id)
+            {
+              user.favorite.splice(i,1);
+          
+            }
+        })
+  
+       }
+    })
+    
+    fs.writeFile("./db/users.json", JSON.stringify(users), (err) => {
+      if (err) {
+        res.status(400).json("bad request");
+      } else {
+        res.status(200).json(users);
+      }
+    });
+  };
+
+
 module.exports = {
   allusers,
   newUser,
   checkuser,
-  favorite
+  favorite,
+  delfav
 };
