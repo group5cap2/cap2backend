@@ -2,7 +2,7 @@ const express = require("express");
 const users = express.Router()
 
 
-const {allusers,newUser,checkuser,favorite} = require("../controllers/users")
+const {allusers,newUser,checkuser,favorite,delfav} = require("../controllers/users")
 
 
 
@@ -12,6 +12,7 @@ users.post("/", newUser);
 
 users.post("/loguser",checkuser);
 users.post("/favorite",favorite);
+users.delete("/favorite",delfav);
 
 
 module.exports = users
