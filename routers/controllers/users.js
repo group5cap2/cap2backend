@@ -74,18 +74,14 @@ const checkuser=(req,res)=>{
 
   const delfav = (req, res) => {
     const username=req.body.username;
-    const favorite=req.body.favorite;
-    let id=favorite.trackId;
+    const id=req.body.id;
     users.map((user,index)=>{
        if(user.username==username)
        {
-        user.favorite.map((item,i)=>{
-            if(item[0].trackId==id)
-            {
-              user.favorite.splice(i,1);
+        
+              user.favorite.splice(id,1);
           
-            }
-        })
+          
   
        }
     })
